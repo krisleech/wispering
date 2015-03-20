@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in wispering.gemspec
-gemspec
+gem 'wisper', '2.0.0.rc1'
+gem 'wisper-rspec'
+gem 'rspec'
